@@ -4,6 +4,7 @@ Welcome to the **Portfolio** repository!
 This project showcases the professional profile, skills, projects, and education of **Mahesh Mhetre**, an enthusiastic QA Engineer and Entry-Level Software Tester.
 
 ## 🌟 Live Preview
+**Access the live portfolio here:** [https://mahiimhetre.github.io/Portfolio/](https://mahiimhetre.github.io/Portfolio/)
 
 The portfolio is a modern, responsive, and visually appealing website built primarily using **HTML** and styled with **Tailwind CSS**.  
 It is designed to serve as an online resume and project showcase.
